@@ -1,0 +1,19 @@
+{
+  "name": "genpark-geometric-brownian-motion-euler-maruyama-skill",
+  "version": "1.0.0",
+  "description": "Euler-Maruyama and Milstein numerical discretization solvers for It\u00f4 Stochastic Differential Equations (SDEs)",
+  "category": "Service",
+  "tags": [
+    "mcp",
+    "sde-solver",
+    "euler-maruyama",
+    "milstein-scheme",
+    "stochastic-calculus",
+    "geometric-brownian-motion",
+    "ito-calculus",
+    "python-standard-library",
+    "agent-skills",
+    "monte-carlo-simulation",
+    "quantitative-modeling"
+  ]
+}
