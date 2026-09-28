@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "genpark-geometric-brownian-motion-euler-maruyama-skill"
+version = "1.0.0"
+description = "Euler-Maruyama and Milstein numerical discretization solvers for Itô Stochastic Differential Equations (SDEs)"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
